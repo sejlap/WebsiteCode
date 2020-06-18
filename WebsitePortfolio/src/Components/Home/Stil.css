@@ -1,0 +1,28 @@
+.main-div {
+    color: white;
+    margin: 0;
+    position: center;
+    top: 40%;
+    padding-top: 100px;
+    padding-left: 450px;
+    font-size: 15pt;
+
+}
+
+#picture{
+    width: 400px;
+    height: 420pt; 
+    right: 20px;
+    float: left;
+}
+
+#red1{
+    padding-left: 20px;
+}
+#red2{
+    padding-left: 20px;
+}
+#red3{
+    padding-left: 20px;
+}
+
