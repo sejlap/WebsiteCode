@@ -7,7 +7,7 @@ Running
 Clone/download a folder website
 
 In terminal enter npm install
-Afte rnpm install, enter  npm start 
+After npm install, enter  npm start 
 
 
 The website is runninng on http://localhost:3000/
